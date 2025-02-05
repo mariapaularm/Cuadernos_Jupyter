@@ -1,1 +1,0 @@
-# libreria-computacion-cuantica
